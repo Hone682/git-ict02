@@ -49,3 +49,16 @@ let z = x(4, 3);
 
 ## Badge
 <img src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&Color=white"  alt="Docker" />
+ 
+<br>
+
+## Git 용어 정리 
+
+### - master
+> local repository의 branch name 이다.
+
+### - origin/master(main)
+> remote repository의 branch name 이다.
+
+### - origin
+> remote repository 이다.
